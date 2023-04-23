@@ -6,7 +6,7 @@ public class Regression {
 	@Test
 	public void m2() {
 		System.out.println("method2");
-		//test
+		//testghghg
 	}
 
 }
